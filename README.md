@@ -4,6 +4,10 @@ A responsive bakery and café website built with HTML, CSS, JavaScript, and Boot
 
 Daisy Delights was created as a front-end web development project to demonstrate responsive design, website customization, and user-focused interface development. The website showcases a fictional bakery and café through a clean, modern, and mobile-friendly user experience.
 
+<p align="center">
+  <img src="assets/img/homepage-preview.png" alt="Daisy Delights Homepage" width="800">
+</p>
+
 ## Project Overview
 
 Daisy Delights provides customers with an engaging online experience through intuitive navigation, attractive visuals, and clear organization of content. The project focuses on creating a professional restaurant-style website while following modern web development practices.
