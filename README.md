@@ -6,10 +6,10 @@ Daisy Delights was created as a front-end web development project to demonstrate
 
 <p align="center">
   <img src="screenshots/homepage-preview.png" alt="Daisy Delights Homepage" width="800">
-  <img src="screenshots/contact.png" alt="Daisy Delights Contact Page" width="800">
-  <img src="screenshots/menu.png" alt="Daisy Delights Menu" width="800">
   <img src="screenshots/about.png" alt="Daisy Delights About Page" width="800">
+  <img src="screenshots/menu.png" alt="Daisy Delights Menu" width="800">
   <img src="screenshots/gallery.png" alt="Daisy Delights Gallery" width="800">
+  <img src="screenshots/contact.png" alt="Daisy Delights Contact Page" width="800">
 </p>
 
 ## Project Overview
